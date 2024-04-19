@@ -3,7 +3,7 @@
 [Blog](https://chinaboy.link)
 
 
-![profile](https://gh-proxy.com/https://raw.githubusercontent.com/XCQ0607/XCQ0607/master/profile-3d-contrib/profile-night-rainbow.svg)
+![profile](https://gh.chinaboy.link/https://raw.githubusercontent.com/XCQ0607/XCQ0607/master/profile-3d-contrib/profile-night-rainbow.svg)
 
 ![MacBook](https://img.shields.io/badge/Apple-MacBook_Air_M1-999999?style=for-the-badge&logo=apple&logoColor=white)
 ![Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
