@@ -4,6 +4,7 @@
 
 
 ![profile](./profile-3d-contrib/profile-night-rainbow.svg)
+![chart](https://down.nigx.cn/github-readme-activity-graph.vercel.app/graph?username=XCQ0607&theme=tokyo-night)
 
 ![MacBook](https://img.shields.io/badge/Apple-MacBook_Air_M1-999999?style=for-the-badge&logo=apple&logoColor=white)
 ![Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
