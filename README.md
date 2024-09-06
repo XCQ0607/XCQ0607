@@ -28,8 +28,8 @@
 
 #### More
 
-- A high school student          
+- A student          
 - Contact me:
   - Email:xcq0607@email.cn
   - QQ:3453975538
-  - [Website](https://chinaboy.link)
+  - [Website](https://blog.chinax.site)
