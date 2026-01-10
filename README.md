@@ -60,9 +60,9 @@
 
 <!-- 7. 连续打卡 Streak (适配：Streak Stats) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://down.nigx.cn/github-readme-streak-stats.herokuapp.com/?user=XCQ0607&theme=tokyo-night&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://down.nigx.cn/github-readme-streak-stats.herokuapp.com/?user=XCQ0607&theme=default&hide_border=true" />
-  <img src="https://down.nigx.cn/github-readme-streak-stats.herokuapp.com/?user=XCQ0607&theme=tokyo-night&hide_border=true" alt="streak graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://all.chinax.nyc.mn/github-readme-streak-stats-eight.vercel.app/?user=XCQ0607&theme=tokyonight&hide_border=true&locale=zh_Hans" />
+  <source media="(prefers-color-scheme: light)" srcset="https://all.chinax.nyc.mn/github-readme-streak-stats-eight.vercel.app/?user=XCQ0607&theme=default&hide_border=true&locale=zh_Hans" />
+  <img src="https://all.chinax.nyc.mn/github-readme-streak-stats=-eight.vercel.app/?user=XCQ0607&theme=tokyo-night&hide_border=true&locale=zh_Hans" alt="streak graph" />
 </picture>
 
 <hr/>
