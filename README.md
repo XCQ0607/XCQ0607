@@ -3,9 +3,9 @@
 <!-- 1. 打字机效果 (适配：深色用浅蓝字，浅色用深蓝字) -->
 <a href="https://github.com/XCQ0607">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://down.nigx.cn/readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=94A6FF&background=00000000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+XCQ0607;A+Student;A+Full+Stack+Developer;Open+Source+Enthusiast" />
-    <source media="(prefers-color-scheme: light)" srcset="https://down.nigx.cn/readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0055AA&background=00000000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+XCQ0607;A+Student;A+Full+Stack+Developer;Open+Source+Enthusiast" />
-    <img src="https://down.nigx.cn/readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=94A6FF&background=00000000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+XCQ0607;A+Student;A+Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://all.chinax.nyc.mn/readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=94A6FF&background=00000000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+XCQ0607;A+Student;A+Full+Stack+Developer;Open+Source+Enthusiast" />
+    <source media="(prefers-color-scheme: light)" srcset="https://all.chinax.nyc.mn/readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0055AA&background=00000000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+XCQ0607;A+Student;A+Full+Stack+Developer;Open+Source+Enthusiast" />
+    <img src="https://all.chinax.nyc.mn/readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=94A6FF&background=00000000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+XCQ0607;A+Student;A+Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
   </picture>
 </a>
 
@@ -52,9 +52,9 @@
     <img src="https://all.chinax.nyc.mn/gstarx.vercel.app/api?username=XCQ0607&show_icons=true&theme=tokyonight&include_all_commits=true&locale=cn" height="180" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://down.nigx.cn/gstarx.vercel.app/api/top-langs/?username=XCQ0607&layout=compact&theme=tokyonight&hide_border=true&locale=cn" />
-    <source media="(prefers-color-scheme: light)" srcset="https://down.nigx.cn/gstarx.vercel.app/api/top-langs/?username=XCQ0607&layout=compact&theme=transparent&hide_border=true&locale=cn&text_color=000" />
-    <img src="https://down.nigx.cn/gstarx.vercel.app/api/top-langs/?username=XCQ0607&layout=compact&theme=tokyonight&hide_border=true&locale=cn" height="180" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://all.chinax.nyc.mn/gstarx.vercel.app/api/top-langs/?username=XCQ0607&layout=compact&theme=tokyonight&hide_border=true&locale=cn" />
+    <source media="(prefers-color-scheme: light)" srcset="https://all.chinax.nyc.mn/gstarx.vercel.app/api/top-langs/?username=XCQ0607&layout=compact&theme=transparent&hide_border=true&locale=cn&text_color=000" />
+    <img src="https://all.chinax.nyc.mn/gstarx.vercel.app/api/top-langs/?username=XCQ0607&layout=compact&theme=tokyonight&hide_border=true&locale=cn" height="180" />
   </picture>
 </div>
 
