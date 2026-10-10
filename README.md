@@ -11,9 +11,9 @@
 
 <!-- 访客计数器 -->
 <br/>
-<img src="https://komarev.com/ghpvc/?username=XCQ0607&label=Profile%20Views&color=blue&style=flat" alt="XCQ0607" />
-
+<img src="https://visitor-badge.laobi.icu/badge?page_id=XCQ0607.XCQ0607&left_text=Profile%20Views&color=007ec6" alt="Profile Views" />
 <br/>
+
 
 <!-- 2. 3D Profile (适配：本地两张图切换) -->
 <picture>
@@ -29,8 +29,8 @@
 
 <!-- 3. Activity Graph (适配：保留国内加速) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://all.chinax.nyc.mn/github-readme-activity-graph.vercel.app/graph?username=XCQ0607&theme=tokyo-night" />
-  <source media="(prefers-color-scheme: light)" srcset="https://all.chinax.nyc.mn/github-readme-activity-graph.vercel.app/graph?username=XCQ0607&theme=github-light" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://all.chinax.nyc.mn/gactivex.vercel.app/graph?username=XCQ0607&theme=tokyo-night" />
+  <source media="(prefers-color-scheme: light)" srcset="https://all.chinax.nyc.mn/gactivex.vercel.app/graph?username=XCQ0607&theme=github-light" />
   <img src="https://all.chinax.nyc.mn/github-readme-activity-graph.vercel.app/graph?username=XCQ0607&theme=tokyo-night" alt="Activity Graph" width="100%" />
 </picture>
 
@@ -107,7 +107,7 @@
 <h3>📫 Connect with me</h3>
 
 <p>
-  <a href="mailto:xcq0607@gmail.com">
+  <a href="mailto:2406498704@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-xcq0607%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="#">
